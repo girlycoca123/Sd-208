@@ -1,0 +1,12 @@
+#myForm {
+    width: 450px;
+    height: 550px;
+    background: linear-gradient(to right, #87CEFA 0%, #00BFFF 75%);
+    border-radius: 7px;
+    margin-top: 1in;
+}
+
+#myBtn {
+    background: linear-gradient(to left, #B0E0E6 0%, #1E90FF 105%);
+    border-radius: 10px;
+}
